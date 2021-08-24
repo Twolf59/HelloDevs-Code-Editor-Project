@@ -1,0 +1,17 @@
+body{
+    Background-Color: #1F1F1F;
+}
+
+textarea {
+
+    width: 300px;
+    height: 100px;
+    resize: none;
+}
+
+
+textarea:focus {
+    outline: none !important;
+    border: none;
+}
+
